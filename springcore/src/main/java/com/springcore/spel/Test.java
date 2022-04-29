@@ -20,6 +20,7 @@ public class Test {
 		System.out.println(d1.getZ());
 		System.out.println(d1.getE());
 		System.out.println(d1.getName());
+		System.out.println("Present Project Directory : "+ System.getProperty("user.dir"));
 		
 	}
 
